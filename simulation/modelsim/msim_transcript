@@ -1,0 +1,296 @@
+# Reading C:/altera/13.0/modelsim_ase/tcl/vsim/pref.tcl 
+# do KS_run_msim_rtl_verilog.do 
+# if {[file exists rtl_work]} {
+# 	vdel -lib rtl_work -all
+# }
+# vlib rtl_work
+# vmap work rtl_work
+# Copying C:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini
+# Modifying modelsim.ini
+# ** Warning: Copied C:\altera\13.0\modelsim_ase\win32aloem/../modelsim.ini to modelsim.ini.
+#          Updated modelsim.ini.
+# 
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src {F:/FPGA/altera/DDS_KS/src/KS.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module KS
+# 
+# Top level modules:
+# 	KS
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/UART_src {F:/FPGA/altera/DDS_KS/src/UART_src/rx_module_plus.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module rx_module_plus
+# 
+# Top level modules:
+# 	rx_module_plus
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/UART_src {F:/FPGA/altera/DDS_KS/src/UART_src/judge.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module judge
+# 
+# Top level modules:
+# 	judge
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src {F:/FPGA/altera/DDS_KS/src/CRTL_src/wave_select.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module wave_select
+# 
+# Top level modules:
+# 	wave_select
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src {F:/FPGA/altera/DDS_KS/src/DDS_src/dds_top.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module dds_top
+# 
+# Top level modules:
+# 	dds_top
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src {F:/FPGA/altera/DDS_KS/src/CRTL_src/data_sel.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module data_sel
+# 
+# Top level modules:
+# 	data_sel
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src {F:/FPGA/altera/DDS_KS/src/DDS_src/delta_wave.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module delta_wave
+# 
+# Top level modules:
+# 	delta_wave
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src {F:/FPGA/altera/DDS_KS/src/DDS_src/squ_wave.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module squ_wave
+# 
+# Top level modules:
+# 	squ_wave
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src {F:/FPGA/altera/DDS_KS/src/DDS_src/sin_wave.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sin_wave
+# 
+# Top level modules:
+# 	sin_wave
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src {F:/FPGA/altera/DDS_KS/src/DDS_src/up_xie_wave.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module up_xie_wave
+# 
+# Top level modules:
+# 	up_xie_wave
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src {F:/FPGA/altera/DDS_KS/src/DDS_src/down_xie_wave.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module down_xie_wave
+# 
+# Top level modules:
+# 	down_xie_wave
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src {F:/FPGA/altera/DDS_KS/src/DDS_src/noise_wave.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module noise_wave
+# 
+# Top level modules:
+# 	noise_wave
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src {F:/FPGA/altera/DDS_KS/src/DDS_src/sin_x_wave.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sin_x_wave
+# 
+# Top level modules:
+# 	sin_x_wave
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src {F:/FPGA/altera/DDS_KS/src/DDS_src/addr_gen.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module addr_gen
+# 
+# Top level modules:
+# 	addr_gen
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/delta {F:/FPGA/altera/DDS_KS/src/IPcore/delta/delta_rom.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module delta_rom
+# 
+# Top level modules:
+# 	delta_rom
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/sin {F:/FPGA/altera/DDS_KS/src/IPcore/sin/sin_rom.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sin_rom
+# 
+# Top level modules:
+# 	sin_rom
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/upxie {F:/FPGA/altera/DDS_KS/src/IPcore/upxie/upxie_rom.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module upxie_rom
+# 
+# Top level modules:
+# 	upxie_rom
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/downxie {F:/FPGA/altera/DDS_KS/src/IPcore/downxie/downxie_rom.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module downxie_rom
+# 
+# Top level modules:
+# 	downxie_rom
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/noise {F:/FPGA/altera/DDS_KS/src/IPcore/noise/noise_rom.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module noise_rom
+# 
+# Top level modules:
+# 	noise_rom
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/sinx_x {F:/FPGA/altera/DDS_KS/src/IPcore/sinx_x/sinx_x_rom.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module sinx_x_rom
+# 
+# Top level modules:
+# 	sinx_x_rom
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/UART_src {F:/FPGA/altera/DDS_KS/src/UART_src/uart_top.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module uart_top
+# 
+# Top level modules:
+# 	uart_top
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src {F:/FPGA/altera/DDS_KS/src/CRTL_src/canshu_ctrl.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module canshu_ctrl
+# 
+# Top level modules:
+# 	canshu_ctrl
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src {F:/FPGA/altera/DDS_KS/src/CRTL_src/amp_ctrl.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module amp_ctrl
+# 
+# Top level modules:
+# 	amp_ctrl
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src {F:/FPGA/altera/DDS_KS/src/CRTL_src/pha_ctrl.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module pha_ctrl
+# ** Warning: F:/FPGA/altera/DDS_KS/src/CRTL_src/pha_ctrl.v(84): (vlog-2600) [RDGN] - Redundant digits in numeric literal.
+# 
+# 
+# Top level modules:
+# 	pha_ctrl
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src {F:/FPGA/altera/DDS_KS/src/CRTL_src/frq_ctrl.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module frq_ctrl
+# 
+# Top level modules:
+# 	frq_ctrl
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DATA_clac {F:/FPGA/altera/DDS_KS/src/DATA_clac/data_calc.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module data_calc
+# 
+# Top level modules:
+# 	data_calc
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src {F:/FPGA/altera/DDS_KS/src/CRTL_src/duty_ctrl.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module duty_ctrl
+# 
+# Top level modules:
+# 	duty_ctrl
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X100000 {F:/FPGA/altera/DDS_KS/src/IPcore/X100000/X100000.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module X100000
+# 
+# Top level modules:
+# 	X100000
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X10000 {F:/FPGA/altera/DDS_KS/src/IPcore/X10000/X10000.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module X10000
+# 
+# Top level modules:
+# 	X10000
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X1000 {F:/FPGA/altera/DDS_KS/src/IPcore/X1000/X1000.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module X1000
+# 
+# Top level modules:
+# 	X1000
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X100 {F:/FPGA/altera/DDS_KS/src/IPcore/X100/X100.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module X100
+# 
+# Top level modules:
+# 	X100
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X10 {F:/FPGA/altera/DDS_KS/src/IPcore/X10/X10.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module X10
+# 
+# Top level modules:
+# 	X10
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DATA_clac {F:/FPGA/altera/DDS_KS/src/DATA_clac/frq_calc.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module frq_calc
+# 
+# Top level modules:
+# 	frq_calc
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/frq_jisuan {F:/FPGA/altera/DDS_KS/src/IPcore/frq_jisuan/frq_jisuan.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module frq_jisuan
+# 
+# Top level modules:
+# 	frq_jisuan
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DATA_clac {F:/FPGA/altera/DDS_KS/src/DATA_clac/pha_calc.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module pha_calc
+# 
+# Top level modules:
+# 	pha_calc
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/pha_calc {F:/FPGA/altera/DDS_KS/src/IPcore/pha_calc/pha_jisuan.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module pha_jisuan
+# 
+# Top level modules:
+# 	pha_jisuan
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/duty_calc {F:/FPGA/altera/DDS_KS/src/IPcore/duty_calc/DIV50M.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module DIV50M
+# 
+# Top level modules:
+# 	DIV50M
+# 
+# vlog -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/simulation {F:/FPGA/altera/DDS_KS/simulation/tb_squ_wave.v}
+# Model Technology ModelSim ALTERA vlog 10.1d Compiler 2012.11 Nov  2 2012
+# -- Compiling module tb_squ_wave
+# 
+# Top level modules:
+# 	tb_squ_wave
+# 
+# vsim -t 1ps -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs="+acc"  tb_squ_wave
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps tb_squ_wave 
+# Loading work.tb_squ_wave
+# Loading work.squ_wave
+# Loading work.DIV50M
+# Loading lpm_ver.lpm_divide
+# Loading lpm_ver.LPM_HINT_EVALUATION
+# 
+# add wave *
+# view structure
+# .main_pane.structure.interior.cs.body.struct
+# view signals
+# .main_pane.objects.interior.cs.body.tree
+# run 1 sec
+vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps work.tb_squ_wave
+# vsim -L altera_ver -L lpm_ver -L sgate_ver -L altera_mf_ver -L altera_lnsim_ver -L cycloneive_ver -L rtl_work -L work -voptargs=\"+acc\" -t 1ps work.tb_squ_wave 
+# Loading work.tb_squ_wave
+# Loading work.squ_wave
+# Loading work.DIV50M
+# Loading lpm_ver.lpm_divide
+# Loading lpm_ver.LPM_HINT_EVALUATION
+add wave sim:/tb_squ_wave/U4_4/*
+add wave sim:/tb_squ_wave/U4_4/DIV50M_inst/*
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run -all

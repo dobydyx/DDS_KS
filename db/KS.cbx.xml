@@ -1,0 +1,27 @@
+<?xml version="1.0" ?>
+<LOG_ROOT>
+	<PROJECT NAME="KS">
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|pha_calc:U6_2|pha_jisuan:pha_jisuan_inst|lpm_mult:lpm_mult_component|multcore:mult_core|mpar_add:padder|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_sgh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|dds_top:U4|noise_wave:U4_7|noise_rom:U4_7_2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_19c1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|dds_top:U4|sin_wave:U4_3|sin_rom:U4_3_2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_prb1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|dds_top:U4|sin_x_wave:U4_8|sinx_x_rom:U4_8_2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_0ac1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|amp_ctrl_module:U7|D_AMP:D_AMP_inst|lpm_divide:LPM_DIVIDE_component" CBX_FILE_NAME="lpm_divide_8ns.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|frq_calc:U6_1|frq_jisuan:frq_jisuan_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_btp.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|pha_calc:U6_2|pha_jisuan:pha_jisuan_inst|lpm_mult:lpm_mult_component|multcore:mult_core|mpar_add:padder|mpar_add:sub_par_add|lpm_add_sub:adder[0]" CBX_FILE_NAME="add_sub_ngh.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|dds_top:U4|delta_wave:U4_2|delta_rom:U4_2_2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_p7c1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|dds_top:U4|squ_wave:U4_4|DIV50M:DIV50M_inst|lpm_divide:LPM_DIVIDE_component" CBX_FILE_NAME="lpm_divide_uos.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|dds_top:U4|squ_wave:U4_4|D_DUTY:D_DUTY_inst|lpm_divide:LPM_DIVIDE_component" CBX_FILE_NAME="lpm_divide_ens.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|duty_calc:U6_3|X10:X10_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_1bn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|amp_ctrl_module:U7|X_AMP:X_AMP_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_kcn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|frq_calc:U6_1|X100000:X100000_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_0en.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|frq_calc:U6_1|X10000:X10000_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_7en.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|frq_calc:U6_1|X1000:X1000_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_vdn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|frq_calc:U6_1|X100:X100_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_icn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|frq_calc:U6_1|X10:X10_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_1bn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|dds_top:U4|squ_wave:U4_4|X_DUTY:X_DUTY_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_aen.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|pha_calc:U6_2|X100:X100_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_icn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|data_calc:U6|pha_calc:U6_2|X10:X10_inst|lpm_mult:lpm_mult_component" CBX_FILE_NAME="mult_1bn.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|dds_top:U4|down_xie_wave:U4_6|downxie_rom:U4_6_2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_1nc1.tdf"/>
+		<CBX_INST_ENTRY INSTANCE_NAME="|KS|dds_top:U4|up_xie_wave:U4_5|upxie_rom:U4_5_2|altsyncram:altsyncram_component" CBX_FILE_NAME="altsyncram_r9c1.tdf"/>
+	</PROJECT>
+</LOG_ROOT>

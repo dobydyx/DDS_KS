@@ -1,0 +1,772 @@
+m255
+K3
+13
+cModel Technology
+Z0 dF:\FPGA\altera\DDS_KS\simulation\modelsim
+vaddr_gen
+IFAb[Umb0nSZmY4VJ]N>0V1
+V`k<lTAW]SZGNdjgQd[Rm50
+Z1 dF:\FPGA\altera\DDS_KS\simulation\modelsim
+w1483963803
+8F:/FPGA/altera/DDS_KS/src/DDS_src/addr_gen.v
+FF:/FPGA/altera/DDS_KS/src/DDS_src/addr_gen.v
+L0 1
+Z2 OV;L;10.1d;51
+r1
+31
+Z3 o-vlog01compat -work work -O0
+Z4 !s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DDS_src -O0
+!i10b 1
+!s100 mT<3oQ9[=IzNiY2He0P5O1
+!s85 0
+!s108 1483965682.654000
+!s107 F:/FPGA/altera/DDS_KS/src/DDS_src/addr_gen.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DDS_src|F:/FPGA/altera/DDS_KS/src/DDS_src/addr_gen.v|
+!s101 -O0
+vamp_ctrl
+I04:gDBdUfXS0_B=<WhYPa3
+V4VmcaTW[Hf_11Q^M=I?JA2
+R1
+w1483449657
+8F:/FPGA/altera/DDS_KS/src/CRTL_src/amp_ctrl.v
+FF:/FPGA/altera/DDS_KS/src/CRTL_src/amp_ctrl.v
+L0 1
+R2
+r1
+31
+R3
+Z5 !s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src -O0
+!i10b 1
+!s100 677;:D2oV@0T0aQ2aMPD^1
+!s85 0
+!s108 1483965683.456000
+!s107 F:/FPGA/altera/DDS_KS/src/CRTL_src/amp_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src|F:/FPGA/altera/DDS_KS/src/CRTL_src/amp_ctrl.v|
+!s101 -O0
+vcanshu_ctrl
+I53=``KdBR^STj2Po4c8@g3
+VhF<7oVjTh559UzIH70I:N1
+R1
+w1483499346
+8F:/FPGA/altera/DDS_KS/src/CRTL_src/canshu_ctrl.v
+FF:/FPGA/altera/DDS_KS/src/CRTL_src/canshu_ctrl.v
+L0 1
+R2
+r1
+31
+R3
+R5
+!i10b 1
+!s100 4d^_Veb^N<6QiHMGkJE2j2
+!s85 0
+!s108 1483965683.369000
+!s107 F:/FPGA/altera/DDS_KS/src/CRTL_src/canshu_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src|F:/FPGA/altera/DDS_KS/src/CRTL_src/canshu_ctrl.v|
+!s101 -O0
+vdata_calc
+IlDzMBkbD7h2oQ35R7U7C@2
+V9df^>9<AF;2R17[_`kc2e3
+R1
+w1483960074
+8F:/FPGA/altera/DDS_KS/src/DATA_clac/data_calc.v
+FF:/FPGA/altera/DDS_KS/src/DATA_clac/data_calc.v
+L0 1
+R2
+r1
+31
+R3
+Z6 !s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/DATA_clac -O0
+!i10b 1
+!s100 CZFanLBSPm3;<JoN1P^9U0
+!s85 0
+!s108 1483965683.728000
+!s107 F:/FPGA/altera/DDS_KS/src/DATA_clac/data_calc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DATA_clac|F:/FPGA/altera/DDS_KS/src/DATA_clac/data_calc.v|
+!s101 -O0
+vdata_sel
+IdR3i50:4la[]IfXfYSC:B3
+Vig0jVWUKWRX0`h@:>T:QZ2
+R1
+w1483948689
+8F:/FPGA/altera/DDS_KS/src/CRTL_src/data_sel.v
+FF:/FPGA/altera/DDS_KS/src/CRTL_src/data_sel.v
+L0 1
+R2
+r1
+31
+R3
+R5
+!i10b 1
+!s100 bbkFB`b>Y_9DUf>aFdXL12
+!s85 0
+!s108 1483965681.958000
+!s107 F:/FPGA/altera/DDS_KS/src/CRTL_src/data_sel.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src|F:/FPGA/altera/DDS_KS/src/CRTL_src/data_sel.v|
+!s101 -O0
+vdds_top
+I`RSSf:^Zh5?c9zKD7@D[83
+VIUd9]f0i0`>JmbT<ASG4O0
+R1
+w1483959976
+8F:/FPGA/altera/DDS_KS/src/DDS_src/dds_top.v
+FF:/FPGA/altera/DDS_KS/src/DDS_src/dds_top.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 3D]I0V4_MDj;MUORjb<hK0
+!s85 0
+!s108 1483965681.772000
+!s107 F:/FPGA/altera/DDS_KS/src/DDS_src/dds_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DDS_src|F:/FPGA/altera/DDS_KS/src/DDS_src/dds_top.v|
+!s101 -O0
+vdelta_rom
+IVM:OfWQ79Vgi9AZD_D]KR1
+V^=`^Y>L5_^R^QkiAYFC[<1
+R1
+w1483365537
+8F:/FPGA/altera/DDS_KS/src/IPcore/delta/delta_rom.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/delta/delta_rom.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 9oo?O:g`4Df[AQXlcR4zS2
+!s85 0
+!s108 1483965682.736000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/delta/delta_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/delta|F:/FPGA/altera/DDS_KS/src/IPcore/delta/delta_rom.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/delta -O0
+vdelta_wave
+I8^M^mf[WV=FHeCU5doDMh2
+VC?_h4T>e3D98mTFmgf?Cl2
+R1
+w1483861041
+8F:/FPGA/altera/DDS_KS/src/DDS_src/delta_wave.v
+FF:/FPGA/altera/DDS_KS/src/DDS_src/delta_wave.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 dhAbU]j`=`<8ZhlVKi;JW1
+!s85 0
+!s108 1483965682.053000
+!s107 F:/FPGA/altera/DDS_KS/src/DDS_src/delta_wave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DDS_src|F:/FPGA/altera/DDS_KS/src/DDS_src/delta_wave.v|
+!s101 -O0
+vDIV50M
+IUGi8S=OPOfnV?a_mzHIK@2
+V:LPk=`XFak2X>;T5Q^W8K3
+R1
+w1483965613
+8F:/FPGA/altera/DDS_KS/src/IPcore/duty_calc/DIV50M.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/duty_calc/DIV50M.v
+L0 39
+R2
+r1
+31
+R3
+n@d@i@v50@m
+!i10b 1
+!s100 WLT@N:1Qi9O0eW_j8mHlz1
+!s85 0
+!s108 1483965684.688000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/duty_calc/DIV50M.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/duty_calc|F:/FPGA/altera/DDS_KS/src/IPcore/duty_calc/DIV50M.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/duty_calc -O0
+vdown_xie_wave
+IBWz]RMmjfGi0A9GRzBliK1
+V7UBc?ia6XTMleYg4Wfg>U3
+R1
+w1483950092
+8F:/FPGA/altera/DDS_KS/src/DDS_src/down_xie_wave.v
+FF:/FPGA/altera/DDS_KS/src/DDS_src/down_xie_wave.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 K^iXA5_D^A^=ZbFB=5b]N3
+!s85 0
+!s108 1483965682.389000
+!s107 F:/FPGA/altera/DDS_KS/src/DDS_src/down_xie_wave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DDS_src|F:/FPGA/altera/DDS_KS/src/DDS_src/down_xie_wave.v|
+!s101 -O0
+vdownxie_rom
+I;hCDUhBDb1AFS68T=4^cD1
+VVPO0:`Wh3Kl1:WY;aUdGK3
+R1
+w1483365569
+8F:/FPGA/altera/DDS_KS/src/IPcore/downxie/downxie_rom.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/downxie/downxie_rom.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 hO_k?Sf2c]^bnD2KgzcKG2
+!s85 0
+!s108 1483965683.009000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/downxie/downxie_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/downxie|F:/FPGA/altera/DDS_KS/src/IPcore/downxie/downxie_rom.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/downxie -O0
+vduty_ctrl
+I8=ag3T<ChcE21Xkl2WD1G2
+VQJHLW9ZO3d`>le7?j]47E1
+R1
+w1483497534
+8F:/FPGA/altera/DDS_KS/src/CRTL_src/duty_ctrl.v
+FF:/FPGA/altera/DDS_KS/src/CRTL_src/duty_ctrl.v
+L0 1
+R2
+r1
+31
+R3
+R5
+!i10b 1
+!s100 F;8BQC:NOHKGGT:G7IngX3
+!s85 0
+!s108 1483965683.811000
+!s107 F:/FPGA/altera/DDS_KS/src/CRTL_src/duty_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src|F:/FPGA/altera/DDS_KS/src/CRTL_src/duty_ctrl.v|
+!s101 -O0
+vfrq_calc
+I9@abgC8OkS_TA:3kES@Bz2
+VB]j1fm3C1IETckz[nlEO<2
+R1
+w1483932396
+8F:/FPGA/altera/DDS_KS/src/DATA_clac/frq_calc.v
+FF:/FPGA/altera/DDS_KS/src/DATA_clac/frq_calc.v
+L0 1
+R2
+r1
+31
+R3
+R6
+!i10b 1
+!s100 o4S09alSCYV3:cK869h]k1
+!s85 0
+!s108 1483965684.337000
+!s107 F:/FPGA/altera/DDS_KS/src/DATA_clac/frq_calc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DATA_clac|F:/FPGA/altera/DDS_KS/src/DATA_clac/frq_calc.v|
+!s101 -O0
+vfrq_ctrl
+INoLSj?QmjbTNdJ^9GjXeO2
+VNP80lY=EbRcAU2b6jbWmj3
+R1
+w1483855920
+8F:/FPGA/altera/DDS_KS/src/CRTL_src/frq_ctrl.v
+FF:/FPGA/altera/DDS_KS/src/CRTL_src/frq_ctrl.v
+L0 1
+R2
+r1
+31
+R3
+R5
+!i10b 1
+!s100 >G=m]T@I=?]d;1K7@?5E61
+!s85 0
+!s108 1483965683.631000
+!s107 F:/FPGA/altera/DDS_KS/src/CRTL_src/frq_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src|F:/FPGA/altera/DDS_KS/src/CRTL_src/frq_ctrl.v|
+!s101 -O0
+vfrq_jisuan
+I=OSRh7^e45:P4:Y816Zk_2
+Vf_ab4ZPVgY5ln4ETM`nTK2
+R1
+w1483845147
+8F:/FPGA/altera/DDS_KS/src/IPcore/frq_jisuan/frq_jisuan.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/frq_jisuan/frq_jisuan.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 W[YfNJaceCNlg=DA?:`<41
+!s85 0
+!s108 1483965684.423000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/frq_jisuan/frq_jisuan.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/frq_jisuan|F:/FPGA/altera/DDS_KS/src/IPcore/frq_jisuan/frq_jisuan.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/frq_jisuan -O0
+vjudge
+I]hle0l0>moRMd0eScRB7E2
+VF=^SjV7Ve8>7MfDmgmZYj3
+R1
+w1483413663
+8F:/FPGA/altera/DDS_KS/src/UART_src/judge.v
+FF:/FPGA/altera/DDS_KS/src/UART_src/judge.v
+L0 1
+R2
+r1
+31
+R3
+Z7 !s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/UART_src -O0
+!i10b 1
+!s100 a9M;;cBI@XLc=:SDhOO>H3
+!s85 0
+!s108 1483965681.592000
+!s107 F:/FPGA/altera/DDS_KS/src/UART_src/judge.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/UART_src|F:/FPGA/altera/DDS_KS/src/UART_src/judge.v|
+!s101 -O0
+vKS
+ImeLBQD4L9iICQZn7>4n@;0
+VCMW3@EDAJCYk1czJ=XDAm0
+R1
+w1483964858
+8F:/FPGA/altera/DDS_KS/src/KS.v
+FF:/FPGA/altera/DDS_KS/src/KS.v
+L0 1
+R2
+r1
+31
+R3
+n@k@s
+!i10b 1
+!s100 JmTLohVbj`ZU9<z3BDJ:23
+!s85 0
+!s108 1483965681.416000
+!s107 F:/FPGA/altera/DDS_KS/src/KS.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src|F:/FPGA/altera/DDS_KS/src/KS.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src -O0
+vnoise_rom
+IOl71N;89A`o3n>:Hic5E03
+VEI[TcRWMF5VkRgMD7K8OL0
+R1
+w1483365577
+8F:/FPGA/altera/DDS_KS/src/IPcore/noise/noise_rom.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/noise/noise_rom.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 H3dUAZk2PD[`2d_B]X^c13
+!s85 0
+!s108 1483965683.103000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/noise/noise_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/noise|F:/FPGA/altera/DDS_KS/src/IPcore/noise/noise_rom.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/noise -O0
+vnoise_wave
+I_UgTd2bVRnUnQ]]_6SQlb0
+V8213;_LCKjUTVe<XnbKN@3
+R1
+w1483928512
+8F:/FPGA/altera/DDS_KS/src/DDS_src/noise_wave.v
+FF:/FPGA/altera/DDS_KS/src/DDS_src/noise_wave.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 e:1@BXA`4`Q53cPaE^TNV3
+!s85 0
+!s108 1483965682.483000
+!s107 F:/FPGA/altera/DDS_KS/src/DDS_src/noise_wave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DDS_src|F:/FPGA/altera/DDS_KS/src/DDS_src/noise_wave.v|
+!s101 -O0
+vpha_calc
+I@Rn[^i_9jLIPRR_U@e32Q2
+V4`i2E3SF64i1K<ca:Hl>53
+R1
+w1483860912
+8F:/FPGA/altera/DDS_KS/src/DATA_clac/pha_calc.v
+FF:/FPGA/altera/DDS_KS/src/DATA_clac/pha_calc.v
+L0 1
+R2
+r1
+31
+R3
+R6
+!i10b 1
+!s100 =djJFlLF;E0<kGNkj?CNj1
+!s85 0
+!s108 1483965684.513000
+!s107 F:/FPGA/altera/DDS_KS/src/DATA_clac/pha_calc.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DATA_clac|F:/FPGA/altera/DDS_KS/src/DATA_clac/pha_calc.v|
+!s101 -O0
+vpha_ctrl
+I]McdAT6dT?O_h:HB_HM7I0
+V==0EPMm7EUKY]4Z5Q3]Qa2
+R1
+w1483497491
+8F:/FPGA/altera/DDS_KS/src/CRTL_src/pha_ctrl.v
+FF:/FPGA/altera/DDS_KS/src/CRTL_src/pha_ctrl.v
+L0 1
+R2
+r1
+31
+R3
+R5
+!i10b 1
+!s100 I<:7Z]Y8R6?1Ylb7fINe60
+!s85 0
+!s108 1483965683.548000
+!s107 F:/FPGA/altera/DDS_KS/src/CRTL_src/pha_ctrl.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src|F:/FPGA/altera/DDS_KS/src/CRTL_src/pha_ctrl.v|
+!s101 -O0
+vpha_jisuan
+I8CC2_N`7JMeJU?_I9jlSo1
+VTjVW^[Nl38VneHDK:i7Ak3
+R1
+w1483857894
+8F:/FPGA/altera/DDS_KS/src/IPcore/pha_calc/pha_jisuan.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/pha_calc/pha_jisuan.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 6QO5<lfbagF5V6NWjE3:j2
+!s85 0
+!s108 1483965684.599000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/pha_calc/pha_jisuan.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/pha_calc|F:/FPGA/altera/DDS_KS/src/IPcore/pha_calc/pha_jisuan.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/pha_calc -O0
+vrx_module_plus
+IP2YH5T7>>HBUfgmbJGiXh2
+V=l3[VYl_[7:PF=A0:fF1_3
+R1
+w1483361110
+8F:/FPGA/altera/DDS_KS/src/UART_src/rx_module_plus.v
+FF:/FPGA/altera/DDS_KS/src/UART_src/rx_module_plus.v
+L0 1
+R2
+r1
+31
+R3
+R7
+!i10b 1
+!s100 97VUFk=@kKgQ_`SKl]Y@81
+!s85 0
+!s108 1483965681.504000
+!s107 F:/FPGA/altera/DDS_KS/src/UART_src/rx_module_plus.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/UART_src|F:/FPGA/altera/DDS_KS/src/UART_src/rx_module_plus.v|
+!s101 -O0
+vsin_rom
+I2hEe;U0RzFX6l?UQfd[Sf1
+VLl5@K>W?9im1X729Zkof:2
+R1
+w1483365022
+8F:/FPGA/altera/DDS_KS/src/IPcore/sin/sin_rom.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/sin/sin_rom.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 _Zj1Wih`bbQH1llKD:6Ah1
+!s85 0
+!s108 1483965682.828000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/sin/sin_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/sin|F:/FPGA/altera/DDS_KS/src/IPcore/sin/sin_rom.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/sin -O0
+vsin_wave
+I1AEBIZV[dB]IGiK7bP@NG3
+VIo;OIA<X>Qhm2i<j17LF<3
+R1
+w1483861050
+8F:/FPGA/altera/DDS_KS/src/DDS_src/sin_wave.v
+FF:/FPGA/altera/DDS_KS/src/DDS_src/sin_wave.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 mhnAfVl6JY:QhOgPLezMG0
+!s85 0
+!s108 1483965682.221000
+!s107 F:/FPGA/altera/DDS_KS/src/DDS_src/sin_wave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DDS_src|F:/FPGA/altera/DDS_KS/src/DDS_src/sin_wave.v|
+!s101 -O0
+vsin_x_wave
+I2YoF_MdaMg[<A_:lhL5D62
+VX6aVceWz]ZSY<iVNnOVIg2
+R1
+w1483928531
+8F:/FPGA/altera/DDS_KS/src/DDS_src/sin_x_wave.v
+FF:/FPGA/altera/DDS_KS/src/DDS_src/sin_x_wave.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 gD4mnAe8zF:l=OVLMY3kg1
+!s85 0
+!s108 1483965682.568000
+!s107 F:/FPGA/altera/DDS_KS/src/DDS_src/sin_x_wave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DDS_src|F:/FPGA/altera/DDS_KS/src/DDS_src/sin_x_wave.v|
+!s101 -O0
+vsinx_x_rom
+I5K0=i;2zIAL3b3SzK>T:S1
+V[bocJ;76?2:H5[;mnoC1<1
+R1
+w1483365584
+8F:/FPGA/altera/DDS_KS/src/IPcore/sinx_x/sinx_x_rom.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/sinx_x/sinx_x_rom.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 oS2mEZZ14YD8FH2^bi]Da0
+!s85 0
+!s108 1483965683.193000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/sinx_x/sinx_x_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/sinx_x|F:/FPGA/altera/DDS_KS/src/IPcore/sinx_x/sinx_x_rom.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/sinx_x -O0
+vsqu_wave
+In>=:XkTnNP57jCP^>:jOE0
+VJh^6IQKjXD5hb[?HBo:I03
+R1
+w1483965628
+8F:/FPGA/altera/DDS_KS/src/DDS_src/squ_wave.v
+FF:/FPGA/altera/DDS_KS/src/DDS_src/squ_wave.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 4C1j^a444L_mnz3ce9hbd2
+!s85 0
+!s108 1483965682.132000
+!s107 F:/FPGA/altera/DDS_KS/src/DDS_src/squ_wave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DDS_src|F:/FPGA/altera/DDS_KS/src/DDS_src/squ_wave.v|
+!s101 -O0
+vtb_squ_wave
+!i10b 1
+!s100 YK>d6g2MSj_cfbG6Df^@[3
+IffBAH?na70B@z@Mf4RF0i1
+VEU?<EDm20CI?4`j`5?IK62
+R1
+w1483964650
+8F:/FPGA/altera/DDS_KS/simulation/tb_squ_wave.v
+FF:/FPGA/altera/DDS_KS/simulation/tb_squ_wave.v
+L0 1
+R2
+r1
+!s85 0
+31
+!s108 1483965684.782000
+!s107 F:/FPGA/altera/DDS_KS/simulation/tb_squ_wave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/simulation|F:/FPGA/altera/DDS_KS/simulation/tb_squ_wave.v|
+!s101 -O0
+R3
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/simulation -O0
+vuart_top
+I>Y_D?X4=^7LODk@a0S3Ej2
+VOjfUdozQD]LQoP1HP`f?m1
+R1
+w1483413844
+8F:/FPGA/altera/DDS_KS/src/UART_src/uart_top.v
+FF:/FPGA/altera/DDS_KS/src/UART_src/uart_top.v
+L0 1
+R2
+r1
+31
+R3
+R7
+!i10b 1
+!s100 NJ^TP0L3Un5GdzzMJo4bF3
+!s85 0
+!s108 1483965683.286000
+!s107 F:/FPGA/altera/DDS_KS/src/UART_src/uart_top.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/UART_src|F:/FPGA/altera/DDS_KS/src/UART_src/uart_top.v|
+!s101 -O0
+vup_xie_wave
+ILm5@L[n;3d^W0T8GB<^Ck3
+Vmm7_3fEN`<KK_56f_aLg52
+R1
+w1483861057
+8F:/FPGA/altera/DDS_KS/src/DDS_src/up_xie_wave.v
+FF:/FPGA/altera/DDS_KS/src/DDS_src/up_xie_wave.v
+L0 1
+R2
+r1
+31
+R3
+R4
+!i10b 1
+!s100 QQj2mfOkJDJgk5]]7883S2
+!s85 0
+!s108 1483965682.305000
+!s107 F:/FPGA/altera/DDS_KS/src/DDS_src/up_xie_wave.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/DDS_src|F:/FPGA/altera/DDS_KS/src/DDS_src/up_xie_wave.v|
+!s101 -O0
+vupxie_rom
+IZ5gX=hZY;OlkSlMT]8eIO2
+VVdkmXdi0Wa7_39f4;<ij00
+R1
+w1483365558
+8F:/FPGA/altera/DDS_KS/src/IPcore/upxie/upxie_rom.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/upxie/upxie_rom.v
+L0 39
+R2
+r1
+31
+R3
+!i10b 1
+!s100 MS>c`:gnoFKf;YBn^WWob2
+!s85 0
+!s108 1483965682.920000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/upxie/upxie_rom.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/upxie|F:/FPGA/altera/DDS_KS/src/IPcore/upxie/upxie_rom.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/upxie -O0
+vwave_select
+IMZ==1:fSl0fUQ1He41^@f0
+VjFOV[oddF3184hXTa:m<c0
+R1
+w1483964955
+8F:/FPGA/altera/DDS_KS/src/CRTL_src/wave_select.v
+FF:/FPGA/altera/DDS_KS/src/CRTL_src/wave_select.v
+L0 1
+R2
+r1
+31
+R3
+R5
+!i10b 1
+!s100 ?Z^<lmYNWE398KWm0H`W^0
+!s85 0
+!s108 1483965681.677000
+!s107 F:/FPGA/altera/DDS_KS/src/CRTL_src/wave_select.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/CRTL_src|F:/FPGA/altera/DDS_KS/src/CRTL_src/wave_select.v|
+!s101 -O0
+vX10
+IOJd0d05gk35M0X`0Gb`;;1
+V^haj4?2a<cC=Fm`4XC<Mz1
+R1
+w1483498969
+8F:/FPGA/altera/DDS_KS/src/IPcore/X10/X10.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/X10/X10.v
+L0 39
+R2
+r1
+31
+R3
+n@x10
+!i10b 1
+!s100 bLH70`YlDjITn?b2ab:OJ3
+!s85 0
+!s108 1483965684.250000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/X10/X10.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X10|F:/FPGA/altera/DDS_KS/src/IPcore/X10/X10.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X10 -O0
+vX100
+Ilk_a5hXDAbkYeJ>G4Nb_G3
+V3iVof>cn0354A;XYB3X`e3
+R1
+w1483498879
+8F:/FPGA/altera/DDS_KS/src/IPcore/X100/X100.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/X100/X100.v
+L0 39
+R2
+r1
+31
+R3
+n@x100
+!i10b 1
+!s100 CYR8=A[d8h8g0<h@a_>RX3
+!s85 0
+!s108 1483965684.167000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/X100/X100.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X100|F:/FPGA/altera/DDS_KS/src/IPcore/X100/X100.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X100 -O0
+vX1000
+Id5Ie:ba;YlR[8:]^Lig^<2
+V>FZJTj]iJ:2[<afN`ld501
+R1
+w1483498830
+8F:/FPGA/altera/DDS_KS/src/IPcore/X1000/X1000.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/X1000/X1000.v
+L0 39
+R2
+r1
+31
+R3
+n@x1000
+!i10b 1
+!s100 Wm;KROX<Cma;^_o4mRiZY2
+!s85 0
+!s108 1483965684.071000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/X1000/X1000.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X1000|F:/FPGA/altera/DDS_KS/src/IPcore/X1000/X1000.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X1000 -O0
+vX10000
+IdB5KVf]T^_R7[K4UIMA[>2
+VRVR>_2cibjkDJEEDDEie03
+R1
+w1483498763
+8F:/FPGA/altera/DDS_KS/src/IPcore/X10000/X10000.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/X10000/X10000.v
+L0 39
+R2
+r1
+31
+R3
+n@x10000
+!i10b 1
+!s100 EbPao]`0@L8Q?;JZlPh1D1
+!s85 0
+!s108 1483965683.983000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/X10000/X10000.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X10000|F:/FPGA/altera/DDS_KS/src/IPcore/X10000/X10000.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X10000 -O0
+vX100000
+IbDQi20lb5I=Rz5V7dD_Dg2
+VWDld1k;@LiAC4@nLC=TG=1
+R1
+w1483498702
+8F:/FPGA/altera/DDS_KS/src/IPcore/X100000/X100000.v
+FF:/FPGA/altera/DDS_KS/src/IPcore/X100000/X100000.v
+L0 39
+R2
+r1
+31
+R3
+n@x100000
+!i10b 1
+!s100 :SlT3PY;^kb<:G=og@X8f1
+!s85 0
+!s108 1483965683.898000
+!s107 F:/FPGA/altera/DDS_KS/src/IPcore/X100000/X100000.v|
+!s90 -reportprogress|300|-vlog01compat|-work|work|+incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X100000|F:/FPGA/altera/DDS_KS/src/IPcore/X100000/X100000.v|
+!s101 -O0
+!s92 -vlog01compat -work work +incdir+F:/FPGA/altera/DDS_KS/src/IPcore/X100000 -O0

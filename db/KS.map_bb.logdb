@@ -1,0 +1,9 @@
+v1
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,data_calc:U6|frq_calc:U6_1|frq_jisuan:frq_jisuan_inst|lpm_mult:lpm_mult_component|mult_btp:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,data_calc:U6|frq_calc:U6_1|frq_jisuan:frq_jisuan_inst|lpm_mult:lpm_mult_component|mult_btp:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,dds_top:U4|squ_wave:U4_4|X_DUTY:X_DUTY_inst|lpm_mult:lpm_mult_component|mult_aen:auto_generated|mac_out4,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,data_calc:U6|frq_calc:U6_1|X100000:X100000_inst|lpm_mult:lpm_mult_component|mult_0en:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,data_calc:U6|frq_calc:U6_1|X10:X10_inst|lpm_mult:lpm_mult_component|mult_1bn:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,data_calc:U6|pha_calc:U6_2|X10:X10_inst|lpm_mult:lpm_mult_component|mult_1bn:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,data_calc:U6|duty_calc:U6_3|X10:X10_inst|lpm_mult:lpm_mult_component|mult_1bn:auto_generated|mac_out2,
+DSP_BALANCING_IMPLEMENTATION,DSP_BLOCKS,dds_top:U4|squ_wave:U4_4|X_DUTY:X_DUTY_inst|lpm_mult:lpm_mult_component|mult_aen:auto_generated|mac_out2,

@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Tue Jan 10 20:34:25 2017
+Quartus II 64-Bit Version : 13.0.0 Build 156 04/24/2013 SJ Full Version
+Revision Name : KS
+Top-level Entity Name : KS
+Family : Cyclone IV E
+Total logic elements : 2,093
+    Total combinational functions : 1,963
+    Dedicated logic registers : 343
+Total registers : 343
+Total pins : 13
+Total virtual pins : 0
+Total memory bits : 49,152
+Embedded Multiplier 9-bit elements : 11
+Total PLLs : 0
